@@ -2,7 +2,7 @@
 data/
 *.h5
 *.npy
-*.pt
+#*.pt
 *.pth
 kaggle_cache/
 
@@ -17,5 +17,5 @@ venv/
 .env
 
 # Checkpoints
-checkpoints*/
+#checkpoints*/
 diagnostic_plots/
