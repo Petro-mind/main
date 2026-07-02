@@ -1,4 +1,4 @@
-# PetroMind — System Analysis & Architecture README
+# PetroMind — System Analysis & Architecture
 ### Predictive Maintenance & AI Knowledge Integration System
 **Prepared by:** PetroMind Engineering Team  
 **Last Updated:** 2026-06-28  
